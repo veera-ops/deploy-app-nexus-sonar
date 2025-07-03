@@ -6,7 +6,6 @@ on:
       - dev
       - qa
       - main
-
 env:
   AWS_REGION: us-east-2
   ECR_REPO_DEV: spinco-dev
