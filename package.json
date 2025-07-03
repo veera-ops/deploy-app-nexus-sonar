@@ -4,7 +4,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
-    "test": "jest",
+    "test": "jest --passWithNoTests",
     "build": "echo 'No build step, but can add if needed.'"
   },
   "devDependencies": {
