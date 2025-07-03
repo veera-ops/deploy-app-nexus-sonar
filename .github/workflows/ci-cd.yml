@@ -8,9 +8,9 @@ on:
       - main
 
 env:
-  AWS_REGION: us-east-1
-  ECR_REPO_DEV: <your-dev-ecr-repo>
-  ECR_REPO_QA: <your-qa-ecr-repo>
+  AWS_REGION: us-east-2
+  ECR_REPO_DEV: spinco-dev
+  ECR_REPO_QA: spinco-qa
   SONAR_PROJECT_KEY: my-node-app
   SONAR_ORG: my-org
 
